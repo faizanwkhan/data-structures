@@ -1,0 +1,17 @@
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+int a=10;
+int b;
+int sum;
+clrscr();
+printf("enter the value of b");
+scanf("%d",&b);
+sum=a+b;
+printf("sum of the numbers are %d");
+getch();
+return 0;
+}
+output:enter the value b=10
+a+b=20
