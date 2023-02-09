@@ -12,3 +12,8 @@ int main() {
     
     return 0;
 }
+output:Enter an integer: -22
+-22 is even.
+
+...Program finished with exit code 0
+Press ENTER to exit console.
