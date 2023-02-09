@@ -1,0 +1,26 @@
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+int a,b,c;
+printf("Enter the a number:");
+scanf("%d",&a);
+printf("Enter the b number: ");
+scanf("%d",&b);
+printf("Enter the c number: ");
+scanf("%d",&c);
+if(a>b&&a>c)
+printf("%d is greatest number",a);
+if(b>a&&b>c)
+printf("%d is greatest number",b);
+else
+printf("%d is greatest number",c);
+return 0;
+}
+output:Enter the a number:63
+Enter the b number: 83  
+Enter the c number: 36
+83 is greatest number
+
+...Program finished with exit code 0
+Press ENTER to exit console.
